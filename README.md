@@ -1,4 +1,2 @@
 # nobitv
-name : NobiTV
-<br>
-Package : com.nobitvque.hdindoxximoviviemax
+# Package : com.nobitvque.hdindoxximoviviemax
